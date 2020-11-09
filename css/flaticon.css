@@ -1,0 +1,50 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 23/05/2017 07:10
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 0px;
+}
+
+.flaticon-placeholder:before { content: "\f100"; }
+.flaticon-black-back-closed-envelope-shape:before { content: "\f101"; }
+.flaticon-phone-receiver:before { content: "\f102"; }
+.flaticon-ambulance:before { content: "\f103"; }
+.flaticon-science:before { content: "\f104"; }
+.flaticon-dog-1:before { content: "\f105"; }
+.flaticon-syringe-with-medication:before { content: "\f106"; }
+.flaticon-healthy:before { content: "\f107"; }
+.flaticon-scissors:before { content: "\f108"; }
+.flaticon-dog:before { content: "\f109"; }
+.flaticon-pets-hotel-symbol-with-a-dog-and-a-cat-in-a-circle-with-one-star:before { content: "\f10a"; }
+.flaticon-24-hours-service:before { content: "\f10b"; }
+.flaticon-24-hours-phone-service:before { content: "\f10c"; }
+.flaticon-quality:before { content: "\f10d"; }
+.flaticon-giftbox:before { content: "\f10e"; }
+.flaticon-hours:before { content: "\f10f"; }
+.flaticon-people:before { content: "\f110"; }
+.flaticon-medical:before { content: "\f111"; }
+.flaticon-animal:before { content: "\f112"; }
